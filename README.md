@@ -1,4 +1,4 @@
-# Faculty Digital Small Task
+# Faculty Digital Interview Small Task
 
 This is a simple MEVN (MongoDB, Express.js, Vue.js, Node.js) stack project with a login page and a revenue dashboard.
 
